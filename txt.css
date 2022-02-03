@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Neonderthaw&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+h1 {
+	font: 100 1.855rem/1.875rem 'Neonderthaw', sans-serif;
+}
+h3 {
+	font: 100 1.415rem/1.475rem 'Neonderthaw', sans-serif;
+}
+p {
+	font: 100 1.115rem/1.175rem 'Dongle', sans-serif;
+}
+s {
+	font: 100 0.815rem/0.875rem 'Dongle', sans-serif;
+}
+btn {
+	font: 100 0.815rem/0.875rem 'Staatliches', sans-serif;
+}
+html, body {
+	font: 100 1.915rem/1.975rem 'Staatliches', sans-serif;
+}
