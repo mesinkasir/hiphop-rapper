@@ -27,37 +27,37 @@ function makeSound(key) {
 
   switch (key) {
     case "d":
-      var tom1 = new Audio("sounds/dubs (1).wav");
+      var tom1 = new Audio("https://mesinkasir.github.io/hiphop-rapper/sounds/dubs (1).wav");
       tom1.play();
       break;
 
     case "a":
-      var tom2 = new Audio("sounds/dubs (2).wav");
+      var tom2 = new Audio("https://mesinkasir.github.io/hiphop-rapper/sounds/dubs (2).wav");
       tom2.play();
       break;
 
     case "s":
-      var tom3 = new Audio('sounds/dubs (3).wav');
+      var tom3 = new Audio('https://mesinkasir.github.io/hiphop-rapper/sounds/dubs (3).wav');
       tom3.play();
       break;
 
     case "q":
-      var tom4 = new Audio('sounds/dubs (4).wav');
+      var tom4 = new Audio('https://mesinkasir.github.io/hiphop-rapper/sounds/dubs (4).wav');
       tom4.play();
       break;
 
     case "j":
-      var snare = new Audio('sounds/dubs (10).wav');
+      var snare = new Audio('https://mesinkasir.github.io/hiphop-rapper/sounds/dubs (10).wav');
       snare.play();
       break;
 
     case "k":
-      var crash = new Audio('sounds/dubs (6).mp3');
+      var crash = new Audio('https://mesinkasir.github.io/hiphop-rapper/sounds/dubs (6).mp3');
       crash.play();
       break;
 
     case "l":
-      var kick = new Audio('sounds/dubs (11).wav');
+      var kick = new Audio('https://mesinkasir.github.io/hiphop-rapper/sounds/dubs (11).wav');
       kick.play();
       break;
 
